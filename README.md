@@ -131,4 +131,6 @@ If a screening call feels rushed, unclear, or one-sided, that’s useful signal 
 Good hiring processes should feel transparent, human, and efficient.  
 This guide exists to help move things closer to that standard.
 # recruiter-screen-explained 
+#interview-prep 
+
 
