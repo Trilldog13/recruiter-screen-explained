@@ -1,4 +1,4 @@
-:star: # What to Expect on a First-Stage Screening Call
+:star: What to Expect on a First-Stage Screening Call?
 
 I get it.
 
@@ -9,8 +9,9 @@ This repository exists to remove that uncertainty.
 
 It’s a short, honest guide to what typically happens on a first-stage screening call, with a solid tech recruiter; why certain questions are asked, and how to make the conversation as efficient and painless as possible — for you.
 
-This is about transparency, respect for your time, and helping you decide quickly whether to continue. 
+This is about transparency, respect for your time, and helping you decide quickly whether to continue 🔆
 
+⬇️
 
 ## Why This Repo Exists
 
@@ -19,6 +20,8 @@ This repository is part of an effort to support technology professionals in succ
 It also documents my ongoing journey working closely with engineers, analysts, and technology teams — learning how to build hiring processes that respect people’s time and reduce unnecessary friction.
 
 ---
+
+❔
 
 ## What Is a First-Stage Screening Call with a tech recruiter?
 
@@ -36,10 +39,10 @@ It *is*:
 
 ---
 
-## Common Screening Questions (and Why They’re Asked)
+## Common Screening Questions (and why they’re asked)
 
 ### Name
-Not a trick — just confirming we’re speaking to the right person and how you prefer to be addressed.
+Not a trick, just confirming we’re speaking to the right person and how you prefer to be addressed.
 
 ---
 
@@ -64,7 +67,7 @@ This avoids frustration on both sides later in the process.
 
 ---
 
-### Salary Expectations
+### Salary Expectations 
 This isn’t about lowballing - the recruiter will always try to get you the best offer. It's in their best interest. 
 
 It’s about checking alignment early so neither side invests time in something that can’t realistically work.  
@@ -127,5 +130,5 @@ If a screening call feels rushed, unclear, or one-sided, that’s useful signal 
 
 Good hiring processes should feel transparent, human, and efficient.  
 This guide exists to help move things closer to that standard.
-# recruiter-screen-explained
+# recruiter-screen-explained 
 
